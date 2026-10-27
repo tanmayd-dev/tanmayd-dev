@@ -1,4 +1,4 @@
-Software engineer at UBS. Focused on distributed systems, execution runtimes, and developer tooling — mostly in Go, Python, and TypeScript.
+Software engineer at UBS.
 
 ### Projects
 
