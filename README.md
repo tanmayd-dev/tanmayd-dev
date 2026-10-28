@@ -11,7 +11,7 @@ Software engineer at UBS.
 
 ### Research
 
-- [Optimal drone flight path planning for precision agriculture](https://doi.org/10.1016/j.rineng.2025.104081) (*Results in Engineering*, 2025) — Flight path optimization and region partitioning for multi-UAV survey clusters.
+- [Optimal drone flight path planning for precision agriculture](https://doi.org/10.1016/j.rineng.2025.104081) (*Results in Engineering*, 2025) — Flight path optimization and region partitioning for multi-UAV survey clusters. ([live simulation](https://tanmayd-dev.github.io/drone-research/))
 
 ### Contact
 
